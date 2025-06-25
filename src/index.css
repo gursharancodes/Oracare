@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme{
+    --color-custom-white: #fff;
+    --color-muted-white: #f5f5f7;
+    --color-custom-black: #1d1d1f;
+    --color-custom-blue: #0066cc;
+    --color-custom-gray: #6b7280;
+}
+
+@layer utilities {
+    .hide-native-icon::-webkit-calendar-picker-indicator {
+        display: none;
+        -webkit-appearance: none;
+    }
+}
