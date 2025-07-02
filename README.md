@@ -2,8 +2,8 @@
 
 A modern, responsive, and dynamic dental clinic website built using **React** and **Tailwind CSS**, showcasing services, appointment booking, and informational content to promote Oracare’s brand and services online.
 
-![React](https://img.shields.io/badge/React-18.x-blue)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-teal)
+![React](https://img.shields.io/badge/React-19.x-blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.x-teal)
 ![Deployment](https://img.shields.io/badge/Deployed-Cloudflare%20Pages-green)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
