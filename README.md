@@ -2,6 +2,25 @@
 
 A modern, responsive, and dynamic dental clinic website built using **React** and **Tailwind CSS**, showcasing services, appointment booking, and informational content to promote Oracare’s brand and services online.
 
+![React](https://img.shields.io/badge/React-18.x-blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-teal)
+![Deployment](https://img.shields.io/badge/Deployed-Cloudflare%20Pages-green)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+---
+
+## 📘 Table of Contents
+
+| Section               | Description                                     |
+|-----------------------|-------------------------------------------------|
+| Project Overview      | High-level summary of project purpose and goals |
+| Features              | Key features and functionalities                |
+| Tech Stack            | Technologies used in the project                |
+| Getting Started       | Setup instructions for running locally          |
+| Live Demo             | Hosted live version of the website              |
+| Credits               | Acknowledgements and author information         |
+| License               | Licensing and usage terms                       |
+
 ---
 
 ## 🚀 Project Overview
@@ -14,13 +33,13 @@ The goal is to present a professional, trustworthy, and user-friendly digital pr
 
 ## 🧩 Features
 
-- ✅ Fully responsive layout with Tailwind CSS
-- 🗂️ Service categories with nested routing and detailed subpages
-- 📅 Appointment booking form with input validation and EmailJS integration
-- 📍 Embedded Google Map for clinic location
-- 💬 Confirmation modal for form submission
-- 🌐 SEO-friendly structure
-- ⚡ Fast load performance with optimized assets
+- ✅ Fully responsive layout with Tailwind CSS  
+- 🗂️ Service categories with nested routing and detailed subpages  
+- 📅 Appointment booking form with input validation and EmailJS integration  
+- 📍 Embedded Google Map for clinic location  
+- 💬 Confirmation modal for form submission  
+- 🌐 SEO-friendly structure  
+- ⚡ Fast load performance with optimized assets  
 
 ---
 
@@ -39,36 +58,36 @@ The goal is to present a professional, trustworthy, and user-friendly digital pr
 
 ## 📬 Getting Started
 
-1. **Clone the repo**:
+1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/gursharancodes/oracare.git
    cd oracare
-   ````
 
-
-2. **Install dependencies**:
+2. **Install dependencies:**
 
    ```bash
    npm install
    ```
 
-3. **Set up EmailJS**:
+3. **Set up EmailJS:**
 
    * Create a free [EmailJS](https://www.emailjs.com/) account.
-   * Get your `service ID`, `template ID`, and `public key`.
+   * Get your `Service ID`, `Template ID`, and `Public Key`.
    * Replace the placeholders in the contact form component.
 
-4. **Run the development server**:
+4. **Run the development server:**
 
    ```bash
    npm run dev
    ```
 
-5. **Build for production**:
+5. **Build for production:**
 
    ```bash
    npm run build
    ```
+
 ---
 
 ## 📌 Live Demo
@@ -85,4 +104,5 @@ Designed and developed by [GursharanCodes](https://github.com/gursharancodes)
 
 ## 📄 License
 
-This project is for portfolio and educational purposes only.
+This repository is intended for **personal portfolio** and **educational demonstration** only.
+**Commercial use is not permitted** without explicit written permission from the author.
